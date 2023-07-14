@@ -1,0 +1,1070 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+  }
+
+header {
+     background-color: rgb(168, 228, 72);
+	color: #fff;
+}
+div {
+	display: flex;
+}
+.profile-content {
+	position: absolute;
+	right: 0;
+}
+
+
+nav {
+	margin-right: 20px;
+}
+
+nav a {
+	color: #000000;
+	text-decoration: none;
+	font-size: 18px;
+	padding: 10px;
+}
+
+nav a:hover {
+	background-color: #555;
+}
+
+main {
+	padding: 50px;
+	text-align: center;
+}
+
+#contenido {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 32px;
+	margin-bottom: 20px;
+}
+
+.p1{
+	font-size: 15px;
+}
+
+b {
+	font-size: 20px;
+}
+footer {
+	background-color: rgb(168, 228, 72);
+    color: #000000;  
+    text-align: center;
+    padding: 1rem;
+  }
+  body {
+    font-family: sans-serif;
+    font-style: italic;
+     background-color: rgb(238, 226, 205);
+  }
+
+  .logo {
+    width: 250px;
+    height: 60px;
+    margin: 1em 1em;
+  }
+
+  .caja {
+	background-color: #eee;
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 20px;
+  }
+
+  .p2 {
+	color: #777;
+	line-height: 1.5;
+  }
+
+  .course-info {
+	background-color: #eee;
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 20px;
+  }
+
+  .course-infx {
+	background-color: #eee;
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 20px;
+  }
+
+
+
+  .container {
+    width: 1300px;
+    height: 500px;
+    overflow: hidden;
+    position: relative;
+}
+
+.image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+
+/*Diseño Aplicaciones Web1*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container1 {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #333333;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: #333333;
+  margin-top: 20px;
+}
+
+.course-info1,
+.course-outline1,
+.course-requirements,
+.course-methodology1,
+.course-hours1,
+.course-teacher1 {
+  margin-top: 40px;
+  background-color: #eee;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.course-info p,
+.course-outline li,
+.course-requirements li,
+.course-methodology p,
+.course-hours th,
+.course-hours td,
+.course-teacher p {
+  color: #666666;
+}
+
+.course-info h2,
+.course-outline h2,
+.course-requirements h2,
+.course-methodology h2,
+.course-hours h2,
+.course-teacher h2 {
+  color: #333333;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+.course-outline table,
+.course-methodology table,
+.course-hours table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.course-outline th,
+.course-outline td,
+.course-methodology th,
+.course-methodology td,
+.course-hours th,
+.course-hours td {
+  border: 1px solid #cccccc;
+  padding: 8px;
+}
+
+.course-outline th,
+.course-methodology th,
+.course-hours th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+.course-outline ul,
+.course-requirements ul,
+.course-methodology ul,
+.course-hours ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.course-teacher p {
+  margin-bottom: 0;
+}
+
+.container::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+header {
+  background-color: rgb(168, 228, 72);
+  color: #fff;
+}
+
+.profile-content {
+  position: absolute;
+  right: 0;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+nav {
+  margin-right: 20px;
+}
+
+nav a {
+  color: #000000;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px;
+}
+
+nav a:hover {
+  background-color: #555;
+}
+
+main {
+  padding: 50px;
+  text-align: center;
+}
+
+#contenido {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+c {
+  font-size: 12px;
+}
+
+b {
+  font-size: 20px;
+}
+
+footer {
+  background-color: rgb(168, 228, 72);
+  color: #000000;
+  text-align: center;
+  padding: 1rem;
+}
+
+.box-uleam img {
+  width: 350px;
+  height: 80px;
+  margin: 1em 1em;
+}
+
+.download-syllabus {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.download-syllabus a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.download-syllabus a:hover {
+  background-color: #0056b3;
+}
+
+
+/*Gestion base de datos*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container1 {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #333333;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.course-info h2 {
+  color: #333333;
+  margin-top: 20px;
+}
+
+.course-info,
+.course-outline,
+.course-requirements,
+.course-methodology,
+.course-hours,
+.course-teacher {
+  margin-top: 40px;
+background-color: #eee;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.course-info p,
+.course-outline li,
+.course-requirements li,
+.course-methodology p,
+.course-hours1 ,
+.course-hours1,
+.course-teacher1 p {
+  color: #666666;
+}
+
+.course-info h2,
+.course-outline h2,
+.course-requirements h2,
+.course-methodology h2,
+.course-hours h2,
+.course-teacher h2 {
+  color: #333333;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+.course-outline table,
+.course-methodology table,
+.course-hours table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.course-outline th,
+.course-outline td,
+.course-methodology th,
+.course-methodology td,
+.course-hours th,
+.course-hours td {
+  border: 1px solid #cccccc;
+  padding: 8px;
+}
+
+.course-outline th,
+.course-methodology th,
+.course-hours th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+.course-outline ul,
+.course-requirements ul,
+.course-methodology ul,
+.course-hours ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.course-teacher p {
+  margin-bottom: 0;
+}
+
+.container::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+header {
+  background-color: rgb(168, 228, 72);
+ color: #fff;
+}
+
+.profile-content1 {
+ position: absolute;
+ right: 0;
+}
+nav ul {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+ display: flex;
+}
+
+nav {
+ margin-right: 20px;
+}
+
+nav a {
+ color: #000000;
+ text-decoration: none;
+ font-size: 18px;
+ padding: 10px;
+}
+
+nav a:hover {
+ background-color: #555;
+}
+
+main {
+ padding: 50px;
+ text-align: center;
+}
+
+#contenido1 {
+ max-width: 800px;
+ margin: 0 auto;
+}
+
+h1 {
+ font-size: 32px;
+ margin-bottom: 20px;
+}
+
+c {
+ font-size: 12px;
+}
+
+b {
+ font-size: 20px;
+}
+footer {
+ background-color: rgb(168, 228, 72);
+ color: #000000;  
+ text-align: center;
+ padding: 1rem;
+}
+body {
+ font-family: sans-serif;
+ font-style: italic;
+ background-color: rgb(238, 226, 205);
+}
+
+.box-uleam img{
+ width: 350px;
+ height: 80px;
+ margin: 1em 1em;
+}
+
+
+.download-syllabus1 {
+text-align: center;
+margin-top: 20px;
+}
+
+.download-syllabus1 a {
+display: inline-block;
+padding: 10px 20px;
+background-color: #007bff;
+color: #ffffff;
+text-decoration: none;
+border-radius: 5px;
+transition: background-color 0.3s ease;
+}
+
+.download-syllabus a:hover {
+background-color: #0056b3;
+}
+
+/*Diseño Programación*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container2 {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #333333;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: #333333;
+  margin-top: 20px;
+}
+
+.course-info2,
+.course-outline2,
+.course-requirements2,
+.course-methodology2,
+.course-hours2,
+.course-teacher2 {
+  margin-top: 40px;
+  background-color: #eee;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.course-info2 p,
+.course-outline2 li,
+.course-requirements2 li,
+.course-methodology2 p,
+.course-hours2 th,
+.course-hours2 td,
+.course-teacher2 p {
+  color: #666666;
+}
+
+.course-info2 h2,
+.course-outline2 h2,
+.course-requirements2 h2,
+.course-methodology2 h2,
+.course-hours2 h2,
+.course-teacher2 h2 {
+  color: #333333;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+.course-outline2 table,
+.course-methodology2 table,
+.course-hours2 table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.course-outline2 th,
+.course-outline2 td,
+.course-methodology2 th,
+.course-methodology2 td,
+.course-hours2 th,
+.course-hours2 td {
+  border: 1px solid #cccccc;
+  padding: 8px;
+}
+
+.course-outline2 th,
+.course-methodology2 th,
+.course-hours2 th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+.course-outline2 ul,
+.course-requirements2 ul,
+.course-methodology2 ul,
+.course-hours2 ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.course-teacher2 p {
+  margin-bottom: 0;
+}
+
+.container2::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+header {
+  background-color: rgb(168, 228, 72);
+  color: #fff;
+}
+
+.profile-content2 {
+  position: absolute;
+  right: 0;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+nav {
+  margin-right: 20px;
+}
+
+nav a {
+  color: #000000;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px;
+}
+
+nav a:hover {
+  background-color: #555;
+}
+
+main {
+  padding: 50px;
+  text-align: center;
+}
+
+#contenido {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+c {
+  font-size: 12px;
+}
+
+b {
+  font-size: 20px;
+}
+
+footer {
+  background-color: rgb(168, 228, 72);
+  color: #000000;
+  text-align: center;
+  padding: 1rem;
+}
+
+body {
+  font-family: sans-serif;
+  font-style: italic;
+  background-color: rgb(238, 226, 205);
+}
+
+.box-uleam img {
+  width: 350px;
+  height: 80px;
+  margin: 1em 1em;
+}
+
+.download-syllabus {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.download-syllabus a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.download-syllabus a:hover {
+  background-color: #0056b3;
+}
+
+/* Diseño inicio de Sesión*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  font-style: italic;
+  background-color: #1f53c5;
+}
+
+.container {
+  width: 50em;
+  margin: 50px auto;
+  background-color: #24303c;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(255, 255, 255, 0.2);
+  display: flex;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #6b6b6b;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="password"] {
+  padding: 10px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+button[type="submit"] {
+  margin: 0 auto;
+  background-color: #1f53c5;
+  color: #fff;
+  width: 10em;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all .3s;
+}
+
+
+button[type="submit"]:hover {
+  background-color: #133b92;
+}
+.box-uleam{
+  width: 50%;
+  margin: 0px;
+  height: 550px;
+  border-right: 0;
+  border-top: 0;
+  border-left: 1px;
+  border-bottom: 0;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+}
+.box-uleam img{
+  width: 350px;
+  height: 300px;
+  margin: 5em 0.8em;
+}
+.box-register{
+  margin: 25px auto;
+  background-color: #24303c;
+}
+.box-register p{
+  margin: 25px auto;
+  background-color: #8098b1;
+}
+.content-arrow img {
+  margin: 0% 10%;
+  width: 3em;
+  height: 3em;
+}
+.content-arrow .flecha{
+  top: 0.5em;
+  position: relative;
+  margin-left: 0.5em;
+  transform: rotate(-180deg);
+  width: 3.7em;
+  height: 2.8em;
+  background: #1f53c5;
+  -webkit-mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
+  mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
+  -webkit-mask-size: 2300% 100%;
+  mask-size: 2300% 100%;
+  border-radius: 30px;
+  cursor: pointer;
+  -webkit-animation: ani2 0.5s steps(22) forwards;
+  animation: ani2 0.5s steps(22) forwards;
+}
+
+.content-arrow .flecha:hover {
+  -webkit-animation: ani 0.5s steps(22) forwards;
+  animation: ani 0.5s steps(22) forwards;
+}
+
+.mask-arrow img {
+  width: 2.3em;
+  height: 2.6em;
+}
+
+.mask-arrow{
+  transform: rotate(-180deg);
+  text-align: center;
+  width: 101%;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  position: absolute;
+  font-size: 20px;
+  top: 2.4em;
+  right: 17.8em;
+  overflow: hidden;
+}
+
+@-webkit-keyframes ani {
+  from {
+    -webkit-mask-position: 0 0;
+    mask-position: 0 0;
+  }
+  to {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+}
+@keyframes ani {
+  from {
+    -webkit-mask-position: 0 0;
+    mask-position: 0 0;
+  }
+  to {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+}
+@-webkit-keyframes ani2 {
+  from {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+  to {
+    -webkit-mask-position: 0 0;
+    mask-position: 0 0;
+  }
+}
+@keyframes ani2 {
+  from {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+  to {
+    -webkit-mask-position: 0 0;
+    mask-position: 0 0;
+  }
+}
+
+/* Diseño de Registro*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  font-style: italic;
+  background-color: rgb(112, 145, 59);
+}
+
+.container3 {
+  width: 50em;
+  margin: 50px auto;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,.2);
+  display: flex;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #6b6b6b;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="password"] {
+  padding: 10px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+button[type="submit"] {
+  margin: 0 auto;
+  background-color: #1cb323;
+  color: #fff;
+  width: 10em;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all .3s;
+}
+
+button[type="submit"]:hover {
+  background-color: #1a741e;
+}
+
+.box-uleam3 {
+  width: 50%;
+  margin: 0px;
+  height: 550px;
+  border-right: 0;
+  border-top: 0;
+  border-left: 1px;
+  border-bottom: 0;
+  border-radius: 5px;
+  background-color: rgb(153, 206, 67);
+}
+
+.box-uleam3 img {
+  width: 350px;
+  height: 100px;
+  margin: 13em 1em;
+}
+
+.box-register3 {
+  margin: 25px auto;
+  background-color: #ffffff;
+}
+
+.links3 {
+  margin: 25px auto;
+  background-color: #ffffff;
+}
+
+/* Diseño del Perfil*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.container4 {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.profile-picture4 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.info4 {
+  margin-bottom: 10px;
+}
+
+.label4 {
+  font-weight: bold;
+}
+
+select,
+input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 5px;
+}
+
+select {
+  height: 34px;
+}
+
+input[type="text"] {
+  height: 28px;
+}
+
+.profile-content4 {
+  position: absolute;
+  right: 0;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+nav {
+  margin-right: 20px;
+}
+
+nav a {
+  color: #000000;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px;
+}
+
+nav a:hover {
+  background-color: #555;
+}
+
+body {
+  font-family: sans-serif;
+  font-style: italic;
+  background-color: rgb(238, 226, 205);
+}
